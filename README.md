@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning java with spring boot
 - 💞️ I’m not looking to collaborate
-- 📫 How to reach me dev9winsys@gmail.com
+- 📫 How to reach me underbase.j@gmail.com
 
 <!---
 dev9winsys/dev9winsys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
