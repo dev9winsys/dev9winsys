@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev9winsys
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning java with spring boot
+- 🌱 I’m currently learning javascript and R
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me underbase.j@gmail.com
 
